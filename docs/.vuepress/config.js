@@ -1,7 +1,6 @@
 import { defineUserConfig,defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
-  base: '/guldUI-doc/',
   theme: defaultTheme({
     // 默认主题配置
     navbar: [
