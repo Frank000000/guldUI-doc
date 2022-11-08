@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"guldUI","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"guldUI","description":"官方文档"},"excerpt":"","headers":[],"git":{"updatedTime":1667890406000,"contributors":[{"name":"Frank000000","email":"2469739226@qq.com","commits":2}]},"filePathRelative":"README.md"}');export{t as data};
