@@ -1,0 +1,18 @@
+{
+  "name": "guld-doc",
+  "version": "1.0.0",
+  "description": "the doc about guld-ui",
+  "main": "index.js",
+  "author": "Frank000000 <2469739226@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@mdit-vue/plugin-toc": "^0.11.1"
+  }
+}
